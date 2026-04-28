@@ -1,2 +1,2 @@
 # SGD_with_Momentum
-Learn how to improve and resolve problem of Gradient Descent with Loss is Non Convex function
+Learn how to improve and resolve problem of Gradient Descent with Loss function is Non Convex function to find global optimize point
